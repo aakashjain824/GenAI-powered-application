@@ -1,0 +1,11 @@
+Image: C:\Users\Zenbook\Downloads\images\360_F_415790935_7va5lMHOmyhvAcdskXbSx7lDJUp0cfja.jpg
+Caption: the image of a herd of animals
+
+Image: C:\Users\Zenbook\Downloads\images\pexels-pixabay-34098.jpg
+Caption: the image of two gis is very clear
+
+Image: C:\Users\Zenbook\Downloads\images\pexels-thomas-b-270703-814898.jpg
+Caption: the image of two tigers
+
+Image: C:\Users\Zenbook\Downloads\images\images.jpeg
+Caption: the image of two animals

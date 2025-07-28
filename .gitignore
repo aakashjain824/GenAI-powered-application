@@ -97,3 +97,4 @@ coverage.xml
 *.h5
 *.db
 *.gradio
+captions.txt
